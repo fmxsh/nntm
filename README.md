@@ -138,6 +138,7 @@ This enables integration with external tools like notifications, logging, syncin
 ## Todo
 
 - Cmd arg for specifying archive file.
+- Ability to edit a todo (with prompt and with custom editor).
 
 ## Trivia
 
