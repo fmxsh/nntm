@@ -131,6 +131,10 @@ nntm todo.txt --exec /home/f/hooks/notify.sh
 
 This enables integration with external tools like notifications, logging, syncing, or webhooks.
 
+## Limitations
+
+- _Markor_ todo files have context (`@`) and project (`+`). The latter is not implemented here.
+
 ## Todo
 
 - Cmd arg for specifying archive file.
